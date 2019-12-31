@@ -1,0 +1,15 @@
+{
+  "action": "STORE",
+  "item": {
+    "files": [
+      {
+        "type": "text",
+        "name": "test.txt"
+      },
+      {
+        "type": "tar",
+        "name": "test.tar"
+      }
+    ]
+  }
+}
